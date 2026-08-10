@@ -136,7 +136,8 @@ I'm particularly interested in projects where the data is imperfect and requires
 `Git` `GitHub` `GitHub Actions` `Jupyter Notebook`
 
 ---
-📫 # Contact Me!
+
+# 📫 Contact Me!
 
 **I'm looking for a junior data analyst role** <br>
 Email: **shamaiev.n@gmail.com**
