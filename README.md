@@ -3,7 +3,6 @@
 # Data Analyst Portfolio
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikita-shamaiev/)
-**shamaiev.n@gmail.com**
 
 I'm a junior data analyst working with **SQL, Python, Google Sheets, Power BI and Tableau**.
 
@@ -13,9 +12,9 @@ Feel free to take a look at the projects I’ve worked on and what I learned alo
 
 ---
 
-# Featured Projects
+# Featured Projects 📂
 
-## 01 · 💣Explosive Violence Affecting Civilian Services in Ukraine
+## 01 · Explosive Violence Affecting Civilian Services in Ukraine 💣
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -31,14 +30,14 @@ The pipeline runs automatically once a week using GitHub Actions.
 
 ### What I worked with
 
-🔗 API data extraction
-🐼 Pandas data cleaning
-🌎 geographic data QA
-📈 metric design
-📝 multi-table data modelling
-💻 automated validation
-🔑 Google Sheets API
-📤 GitHub Actions
+🔗 API data extraction <br>
+🐼 Pandas data cleaning <br>
+🌎 Geographic data QA <br>
+📈 Metric design <br>
+📝 Multi-table data modelling <br>
+💻 Automated validation <br>
+🔑 Google Sheets API <br>
+📤 GitHub Actions <br>
 🖼 Tableau visualization
 
 **[View Project →](https://github.com/shamaievn/explosive_violence_analysis_ukraine)**  
@@ -46,7 +45,7 @@ The pipeline runs automatically once a week using GitHub Actions.
 
 ---
 
-## 02 · 📊 Marketing Performance Analysis
+## 02 · Marketing Performance Analysis 📊
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 **Data Cleaning · KPI Analysis · Visualization**
@@ -57,14 +56,14 @@ I worked with advertising performance data, built calculated metrics such as ROA
 
 ### What I worked with
 
-🛁 data cleaning
-📝 spreadsheet formulas
-👁 lookup functions
-📈 marketing KPIs
-🔍 monthly performance analysis
-💵 ROAS analysis
-📊 dashboard design
-💼 executive summary
+🛁 Data cleaning <br>
+📝 Spreadsheet formulas <br>
+👁 Lookup functions <br>
+📈 Marketing KPIs <br>
+🔍 Monthly performance analysis <br>
+💵 ROAS analysis <br>
+📊 Dashboard design <br>
+💼 Executive summary
 
 **[View Project →](https://docs.google.com/spreadsheets/d/1n60CQxSZH78F38vtTB_mADldqSrdGDMHhLCjJlYgAV4/edit?usp=sharing)**
 
@@ -128,9 +127,7 @@ I'm particularly interested in projects where the data is imperfect and requires
 `Git` `GitHub` `GitHub Actions` `Jupyter Notebook`
 
 ---
+📫 #Contact Me!
 
-# Contact
-
-**LinkedIn:** [Nikita Shamaiev](https://www.linkedin.com/in/nikita-shamaiev/)
-
-**GitHub:** [shamaievn](https://github.com/shamaievn)
+I'm looking for a junior data analyst role
+Email: **shamaiev.n@gmail.com**
