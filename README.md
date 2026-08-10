@@ -28,6 +28,15 @@ What started as a Python + Tableau analysis developed into an automated ETL pipe
 
 The pipeline runs automatically once a week using GitHub Actions.
 
+<p align="center">
+  <a href="https://github.com/shamaievn/explosive_violence_analysis_ukraine">
+    <img
+      src="https://raw.githubusercontent.com/shamaievn/explosive_violence_analysis_ukraine/main/assets/dashboard.png"
+      width="650"
+    >
+  </a>
+</p>
+
 ### What I worked with
 
 🔗 API data extraction <br>
