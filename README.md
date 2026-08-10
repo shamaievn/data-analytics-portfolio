@@ -139,5 +139,5 @@ I'm particularly interested in projects where the data is imperfect and requires
 
 # 📫 Contact Me!
 
-**I'm looking for a junior data analyst role** <br>
+**Currently looking for the next dataset to make sense of - preferably as a Junior Data Analyst.** <br>
 Email: **shamaiev.n@gmail.com**
