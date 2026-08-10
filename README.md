@@ -85,7 +85,7 @@ I worked with advertising performance data, built calculated metrics such as ROA
 
 **Data Modelling · Business Intelligence**
 
-**Currently being rebuilt**.
+**Currently being rebuilt 🏗**.
 
 The goal of this project is to demonstrate a complete analytical workflow using SQL for data preparation and analysis and Power BI for modelling, KPI development and interactive visualization.
 
@@ -93,7 +93,7 @@ The goal of this project is to demonstrate a complete analytical workflow using 
 
 ---
 
-# What I'm Practicing
+# What I'm Practicing 🏋🏻
 
 Across these projects I'm focusing on the full analytical process rather than only dashboard creation:
 
@@ -121,7 +121,7 @@ I'm particularly interested in projects where the data is imperfect and requires
 
 ---
 
-# Toolkit
+# 🛠 Toolkit 
 
 **Data analysis**
 
