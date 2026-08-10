@@ -54,7 +54,7 @@ The pipeline runs automatically once a week using GitHub Actions.
 
 ---
 
-## 02 · Marketing Performance Analysis 📊
+## 02 · Google Sheets Marketing Performance Analysis 📊
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 **Data Cleaning · KPI Analysis · Visualization**
@@ -78,7 +78,7 @@ I worked with advertising performance data, built calculated metrics such as ROA
 
 ---
 
-## 03 · 🇺🇦 Humanitarian Aid Funding in Ukraine
+## 03 · Humanitarian Aid Funding in Ukraine 💲
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
