@@ -65,7 +65,7 @@ Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing 
 <p align="center">
   <a href="https://github.com/shamaievn/ukraine-humanitarian-funding-analysis">
     <img
-      src="https://github.com/shamaievn/ukraine-humanitarian-funding-analysis/blob/main/assets/dashboard.png"
+      src="https://github.com/shamaievn/ukraine-humanitarian-funding-analysis/blob/main/assets/dashboard_demo.gif"
       width="650"
     >
   </a>
@@ -88,7 +88,7 @@ End-to-end ecommerce analytics project transforming raw GA4 event data into a se
 <p align="center">
   <a href="https://github.com/shamaievn/ecommerce-funnel-analysis">
     <img
-      src="https://raw.githubusercontent.com/shamaievn/ecommerce-funnel-analysis/main/assets/dashboard.png"
+      src="https://raw.githubusercontent.com/shamaievn/ecommerce-funnel-analysis/main/assets/dashboard_demo.gif"
       width="650"
     >
   </a>
@@ -99,7 +99,8 @@ End-to-end ecommerce analytics project transforming raw GA4 event data into a se
 🚦 Traffic acquisition and conversion analysis <br>
 📊 Interactive Tableau dashboard
 
-[View Project →](https://github.com/shamaievn/ecommerce-funnel-analysis) · [Tableau Dashboard](https://public.tableau.com/app/profile/nikita.shamaiev/viz/E-CommerceFunnelGA4/Dashboard1)
+[View Project →](https://github.com/shamaievn/ecommerce-funnel-analysis)
+[Tableau Dashboard](https://public.tableau.com/app/profile/nikita.shamaiev/viz/E-CommerceFunnelGA4/Dashboard1)
 
 ---
 
