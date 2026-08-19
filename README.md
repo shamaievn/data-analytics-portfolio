@@ -88,7 +88,7 @@ End-to-end ecommerce analytics project transforming raw GA4 event data into a se
 <p align="center">
   <a href="https://github.com/shamaievn/ecommerce-funnel-analysis">
     <img
-      src="https://raw.githubusercontent.com/shamaievn/ecommerce-funnel-analysis/main/assets/dashboard_demo.gif"
+      src="https://raw.githubusercontent.com/shamaievn/ecommerce-funnel-analysis/main/assets/dashboard.png"
       width="650"
     >
   </a>
