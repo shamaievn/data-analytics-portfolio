@@ -99,7 +99,7 @@ End-to-end ecommerce analytics project transforming raw GA4 event data into a se
 🚦 Traffic acquisition and conversion analysis <br>
 📊 Interactive Tableau dashboard
 
-[View Project →](https://github.com/shamaievn/ecommerce-funnel-analysis)
+[View Project →](https://github.com/shamaievn/ecommerce-funnel-analysis) <br>
 [Tableau Dashboard](https://public.tableau.com/app/profile/nikita.shamaiev/viz/E-CommerceFunnelGA4/Dashboard1)
 
 ---
