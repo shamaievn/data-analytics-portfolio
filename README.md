@@ -31,7 +31,7 @@ The pipeline runs automatically once a week using GitHub Actions.
 <p align="center">
   <a href="https://github.com/shamaievn/explosive_violence_analysis_ukraine">
     <img
-      src="https://raw.githubusercontent.com/shamaievn/explosive_violence_analysis_ukraine/main/assets/dashboard.png"
+      src="https://raw.githubusercontent.com/shamaievn/explosive_violence_analysis_ukraine/main/assets/dashboard_demo.gif"
       width="650"
     >
   </a>
