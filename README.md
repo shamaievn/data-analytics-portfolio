@@ -6,7 +6,7 @@
 
 I'm a junior data analyst working with **SQL, Python, Google Sheets, Power BI and Tableau**.
 
-What I enjoy most about data analysis is the process of making sense of something that doesn't make sense at first glance - asking the right questions, understanding what the data really represents, and gradually turning it into a clear picture (or at least cleaner one than I started with🧹)
+What I enjoy most about data analysis is the process of making sense of something that doesn't make sense at first glance - asking the right questions, understanding what the data really represents, and gradually turning it into a clear picture (or at least a cleaner one than I started with🧹)
 
 Feel free to take a look at the projects I’ve worked on and what I learned along the way.
 
@@ -104,7 +104,7 @@ End-to-end ecommerce analytics project transforming raw GA4 event data into a se
 
 ---
 
-## 📊 04 · Google Sheets Marketing Performance Analysis 📊
+## 📊 04 · Google Sheets Marketing Performance Analysis
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 **Data Cleaning · KPI Analysis · Visualization**
