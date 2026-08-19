@@ -14,7 +14,7 @@ Feel free to take a look at the projects I’ve worked on and what I learned alo
 
 # Featured Projects 📂
 
-## 01 · Explosive Violence Affecting Civilian Services in Ukraine 💣
+## 💣 01 · Explosive Violence Affecting Civilian Services in Ukraine
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -31,7 +31,7 @@ The pipeline runs automatically once a week using GitHub Actions.
 <p align="center">
   <a href="https://github.com/shamaievn/explosive_violence_analysis_ukraine">
     <img
-      src="https://raw.githubusercontent.com/shamaievn/explosive_violence_analysis_ukraine/main/assets/dashboard_demo.gif"
+      src="https://raw.githubusercontent.com/shamaievn/explosive_violence_analysis_ukraine/main/assets/dashboard.png"
       width="650"
     >
   </a>
@@ -54,7 +54,56 @@ The pipeline runs automatically once a week using GitHub Actions.
 
 ---
 
-## 02 · Google Sheets Marketing Performance Analysis 📊
+## 💲 02 · Ukraine Humanitarian Funding Analysis
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing on funding gaps, coverage, sector differences, and YoY funding changes. Built a PostgreSQL analytical layer for data validation and transformation, then created an interactive Power BI dashboard with dynamic KPIs, sector comparisons, and filtering.
+
+<p align="center">
+  <a href="https://github.com/shamaievn/ukraine-humanitarian-funding-analysis">
+    <img
+      src="https://github.com/shamaievn/ukraine-humanitarian-funding-analysis/blob/main/assets/dashboard.png"
+      width="650"
+    >
+  </a>
+</p>
+
+**Key skills:** data cleaning & QA, SQL views, PostgreSQL, DAX, dashboard design, data visualization
+
+**[View Project→](https://github.com/shamaievn/ukraine-humanitarian-funding-analysis)**
+
+---
+
+### 🛒 03 · Ecommerce Funnel Analysis
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+End-to-end ecommerce analytics project transforming raw GA4 event data into a session-based model for conversion funnel analysis.
+
+<p align="center">
+  <a href="https://github.com/shamaievn/ecommerce-funnel-analysis">
+    <img
+      src="https://raw.githubusercontent.com/shamaievn/ecommerce-funnel-analysis/main/assets/dashboard.png"
+      width="650"
+    >
+  </a>
+</p>
+  
+💻 354K+ sessions analyzed <br>
+🛒 7-step ecommerce funnel <br>
+🚦 Traffic acquisition and conversion analysis <br>
+📊 Interactive Tableau dashboard
+
+[View Project →](https://github.com/shamaievn/ecommerce-funnel-analysis) · [Tableau Dashboard](https://public.tableau.com/app/profile/nikita.shamaiev/viz/E-CommerceFunnelGA4/Dashboard1)
+
+---
+
+## 📊 04 · Google Sheets Marketing Performance Analysis 📊
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 **Data Cleaning · KPI Analysis · Visualization**
@@ -75,29 +124,6 @@ I worked with advertising performance data, built calculated metrics such as ROA
 💼 Executive summary
 
 **[View Project →](https://docs.google.com/spreadsheets/d/1n60CQxSZH78F38vtTB_mADldqSrdGDMHhLCjJlYgAV4/edit?usp=sharing)**
-
----
-
-## 03 · Ukraine Humanitarian Funding Analysis💲
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing on funding gaps, coverage, sector differences, and YoY funding changes. Built a PostgreSQL analytical layer for data validation and transformation, then created an interactive Power BI dashboard with dynamic KPIs, sector comparisons, and filtering.
-
-<p align="center">
-  <a href="https://github.com/shamaievn/ukraine-humanitarian-funding-analysis">
-    <img
-      src="https://github.com/shamaievn/ukraine-humanitarian-funding-analysis/blob/main/assets/dashboard.png"
-      width="650"
-    >
-  </a>
-</p>
-
-**Key skills:** data cleaning & QA, SQL views, PostgreSQL, DAX, dashboard design, data visualization
-
-**[View Project→](https://github.com/shamaievn/ukraine-humanitarian-funding-analysis)**
 
 ---
 
