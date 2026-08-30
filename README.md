@@ -74,7 +74,7 @@ Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing 
 **Key skills:** data cleaning & QA, SQL views, PostgreSQL, DAX, dashboard design, data visualization
 
 **[View Project→](https://github.com/shamaievn/ukraine-humanitarian-funding-analysis)**<br>
-**[Open Power BI Dashboard →](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGYxNGIxOTctYjE3OC00NGMxLWI4MGItYWNiMzViOTYxZTg1IiwidCI6Ijk0YjQwY2YyLWU5NGUtNDA1Ny1hMmVkLWZiYmY1MjUzYjVlMCJ9)**
+**[Open Power BI Dashboard →](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGYxNGIxOTctYjE3OC00NGMxLWI4MGItYWNiMzViOTYxZTg1IiwidCI6Ijk0YjQwY2YyLWU5NGUtNDA1Ny1hMmVkLWZiYmY1MjUzYjVlMCJ9)**<br>
 <sup>Please click the **Fit to page** button in the bottom-right corner.</sup>
 
 
