@@ -58,7 +58,6 @@ The pipeline runs automatically once a week using GitHub Actions.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing on funding gaps, coverage, sector differences, and YoY funding changes. Built a PostgreSQL analytical layer for data validation and transformation, then created an interactive Power BI dashboard with dynamic KPIs, sector comparisons, and filtering.
 
