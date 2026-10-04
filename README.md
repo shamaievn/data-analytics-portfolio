@@ -75,10 +75,22 @@ Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing 
 **[View Project→](https://github.com/shamaievn/ukraine-humanitarian-funding-analysis)**<br>
 **[Open Power BI Dashboard →](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGYxNGIxOTctYjE3OC00NGMxLWI4MGItYWNiMzViOTYxZTg1IiwidCI6Ijk0YjQwY2YyLWU5NGUtNDA1Ny1hMmVkLWZiYmY1MjUzYjVlMCJ9)**
 
+---
+### 03 · Lesson/Income Tracker
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+A lesson and income tracking system built for a private German tutor using Google Sheets and Looker Studio. It automates lesson pricing, income and tax calculations, while providing an interactive dashboard with monthly KPIs, revenue trends, income sources, and student-level performance.
+
+<img width="1694" height="1199" alt="Знімок екрана 2026-09-20 154852" src="https://github.com/user-attachments/assets/4f4f2505-0905-4130-8fec-34da4c0305f8" />
+
+<img width="1920" height="1200" alt="lessons_tracker" src="https://github.com/user-attachments/assets/c967910d-bae0-4c23-8a97-8683f260f9ac" />
+
 
 ---
 
-### 🛒 03 · Ecommerce Funnel Analysis
+### 🛒 04 · Ecommerce Funnel Analysis
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
