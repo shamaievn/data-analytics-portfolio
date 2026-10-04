@@ -84,9 +84,9 @@ Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing 
 A lesson and income tracking system built for a private German tutor using Google Sheets and Looker Studio. It automates lesson pricing, income and tax calculations, while providing an interactive dashboard with monthly KPIs, revenue trends, income sources, and student-level performance.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/4f4f2505-0905-4130-8fec-34da4c0305f8">
+  <a href="https://github.com/user-attachments/assets/eb0ae7fb-6ccd-4c6e-9e59-3356bfb1a3a6">
     <img
-      src="https://github.com/user-attachments/assets/4f4f2505-0905-4130-8fec-34da4c0305f8"
+      src="https://github.com/user-attachments/assets/eb0ae7fb-6ccd-4c6e-9e59-3356bfb1a3a6"
       alt="German Lessons Tracker Dashboard"
       width="650"
     >
@@ -98,7 +98,7 @@ A lesson and income tracking system built for a private German tutor using Googl
     <img
       src="https://github.com/user-attachments/assets/c967910d-bae0-4c23-8a97-8683f260f9ac"
       alt="German Lessons Tracker Demo"
-      width="850"
+      width="650"
     >
   </a>
 </p>
