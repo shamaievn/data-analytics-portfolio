@@ -76,7 +76,7 @@ Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing 
 **[Open Power BI Dashboard →](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGYxNGIxOTctYjE3OC00NGMxLWI4MGItYWNiMzViOTYxZTg1IiwidCI6Ijk0YjQwY2YyLWU5NGUtNDA1Ny1hMmVkLWZiYmY1MjUzYjVlMCJ9)**
 
 ---
-### 👩🏻‍🏫 03 · Lesson/Income Tracker
+## 👩🏻‍🏫 03 · Lesson/Income Tracker
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
@@ -111,14 +111,16 @@ A lesson and income tracking system built for a private German tutor using Googl
 - Eliminated manual month-end income calculations
 - Embedded the dashboard into the tutor's Notion workspace
 
+I’m open to taking on small pro bono data analytics projects to gain hands-on experience. If you need help with data cleaning, Google Sheets, SQL, or dashboard development, feel free to reach out.
+
 > The dashboard uses anonymized and partially modified data for demonstration purposes.
 ---
 
-### 🛒 04 · Ecommerce Funnel Analysis
+## 🛒 04 · Ecommerce Funnel Analysis
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 End-to-end ecommerce analytics project transforming raw GA4 event data into a session-based model for conversion funnel analysis.
 
