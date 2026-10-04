@@ -10,6 +10,8 @@ What I enjoy most about data analysis is the process of making sense of somethin
 
 Feel free to take a look at the projects I’ve worked on and what I learned along the way.
 
+I’m open to taking on small pro bono data analytics projects to gain hands-on experience. If you need help with data cleaning, Google Sheets, SQL, or dashboard development, feel free to reach out.
+
 ---
 
 # Featured Projects 📂
@@ -110,8 +112,6 @@ A lesson and income tracking system built for a private German tutor using Googl
 - Enabled analysis by date, student, group, and income source
 - Eliminated manual month-end income calculations
 - Embedded the dashboard into the tutor's Notion workspace
-
-I’m open to taking on small pro bono data analytics projects to gain hands-on experience. If you need help with data cleaning, Google Sheets, SQL, or dashboard development, feel free to reach out.
 
 > The dashboard uses anonymized and partially modified data for demonstration purposes.
 ---
