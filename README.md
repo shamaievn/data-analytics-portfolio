@@ -8,7 +8,7 @@ I'm a junior data analyst working with **SQL, Python, Google Sheets, Power BI an
 
 What I enjoy most about data analysis is the process of making sense of something that doesn't make sense at first glance - asking the right questions, understanding what the data really represents, and gradually turning it into a clear picture (or at least a cleaner one than I started with🧹)
 
-Feel free to take a look at the projects I’ve worked on and what I learned along the way.
+Take a look at the projects I’ve worked on and what I learned along the way.
 
 I’m open to taking on small pro bono data analytics projects to gain hands-on experience. If you need help with data cleaning, Google Sheets, SQL, or dashboard development, feel free to reach out.
 
