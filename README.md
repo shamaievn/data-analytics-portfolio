@@ -76,12 +76,12 @@ Analyzed OCHA FTS humanitarian funding data for Ukraine (2022–2026), focusing 
 **[Open Power BI Dashboard →](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGYxNGIxOTctYjE3OC00NGMxLWI4MGItYWNiMzViOTYxZTg1IiwidCI6Ijk0YjQwY2YyLWU5NGUtNDA1Ny1hMmVkLWZiYmY1MjUzYjVlMCJ9)**
 
 ---
-### 03 · Lesson/Income Tracker
+### 👩🏻‍🏫 03 · Lesson/Income Tracker
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
-A lesson and income tracking system built for a private German tutor using Google Sheets and Looker Studio. It automates lesson pricing, income and tax calculations, while providing an interactive dashboard with monthly KPIs, revenue trends, income sources, and student-level performance.
+A lesson and income tracking system built for a private German tutor using Google Sheets and Looker Studio. It automates lesson pricing, income and tax calculations via Google Sheets formulas, while providing an interactive dashboard with monthly KPIs, revenue trends and income sources.
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/eb0ae7fb-6ccd-4c6e-9e59-3356bfb1a3a6">
@@ -103,6 +103,15 @@ A lesson and income tracking system built for a private German tutor using Googl
   </a>
 </p>
 
+- Automated lesson pricing based on student, lesson format, and group size
+- Automated income, tax, and social contribution calculations
+- Created a single source of truth for lesson and client data
+- Built an interactive Looker Studio dashboard with monthly filtering
+- Enabled analysis by date, student, group, and income source
+- Eliminated manual month-end income calculations
+- Embedded the dashboard into the tutor's Notion workspace
+
+> The dashboard uses anonymized and partially modified data for demonstration purposes.
 ---
 
 ### 🛒 04 · Ecommerce Funnel Analysis
