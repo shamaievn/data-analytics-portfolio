@@ -50,7 +50,7 @@ The pipeline runs automatically once a week using GitHub Actions.
 🖼 Tableau visualization
 
 **[View Project →](https://github.com/shamaievn/explosive_violence_analysis_ukraine)**  
-**[Open Tableau Dashboard →](https://public.tableau.com/views/Book1_17807567395660/Dashboard_Explosive_Violence?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[Open Tableau Dashboard →](https://public.tableau.com/views/Book1_17807567395660/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
